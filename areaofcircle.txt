@@ -4,10 +4,10 @@ int main()
 {
    int r;
    float a;
-   cout<<"enter the r=";
+   cout<<"enter the radius=";
    cout<<endl;
    cin>>r;
    a=3.14*r*r;
-   cout<<a;
+   cout<<"Area of circle:"<<a;
    return 0;
 }
